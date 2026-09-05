@@ -1,4 +1,4 @@
-# Week01 Project -- Poor access to primary-healthcare-ijebu-ode
+# Week01 Project -- Poor access to primary healthcare Ijebu-ode
 GeoDev Lab Week 01 – Project Brief: Mapping and analysing underserved areas in Ijebu Ode with limited access to primary healthcare facilities.
 
 **Student**: Veronica Kehinde Abiodun 
