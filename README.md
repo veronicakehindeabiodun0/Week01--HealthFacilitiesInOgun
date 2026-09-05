@@ -1,6 +1,5 @@
 # Week01 Project --HealthFacilitiesInOgun
 GeoDev Lab Week 01 – Project Brief: Access to primary healthcare facilities in Ijebu Ode LGA
-# Project Brief – GeoDev Lab Week 01
 
 **Student**: Veronica Kehinde Abiodun 
 **Cohort**: GeoDev Lab Cohort 1 (2026)
